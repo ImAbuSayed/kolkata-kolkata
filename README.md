@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kolkata-kolkata/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Kolkata Kolkata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kolkata-kolkata/) |
+| **Get License** | [Request Licensing for Kolkata Kolkata](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kolkata-kolkata/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c01d56697a31c8ddab214f4ef53f19483f9f22da473b8d3e4e46a14a76cdd8b6` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
